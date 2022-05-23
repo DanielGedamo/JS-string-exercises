@@ -50,6 +50,21 @@
 // }
 // returnTrueOrFalse('daniel gadamo')
 
-function srtingAnd (str,){
+// function srtingAnd (str,){
+// for(var i=0; i<str.length;i++){
+//     if (Array[i]==str[i]){
 
-}
+//     }
+// }
+// }
+// function getFor(){
+//     var str ='sayonara';
+//     var mySub = str.substr(0,3);
+//     return mySub;
+// }getFor()
+// function getFromY(){
+//     var string ='sayonara';
+//     var fromY = string.substr(2.4)
+//     return fromY;
+
+// }getFromY()
