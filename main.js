@@ -59,12 +59,34 @@
 // }
 // function getFor(){
 //     var str ='sayonara';
-//     var mySub = str.substr(0,3);
+//     var mySub = str.substring(0,3);
 //     return mySub;
 // }getFor()
 // function getFromY(){
-//     var string ='sayonara';
-//     var fromY = string.substr(2.4)
-//     return fromY;
-
-// }getFromY()
+// var str ='sayonara';
+// var myStr = str.substr(3,4);
+// return myStr
+// }getFromY();
+// function getNoteFromO(){
+//     var str = 'sayonara';
+//     var myStr =str.substr(4,);
+//     return myStr
+// }getNoteFromO();
+// function getFolName() {
+    
+    // var startIndex = 0 
+    // var userstr = prompt('enter full name');
+    // console.log(userName.length);
+    // for(var i =0; i<userName.length;i++){
+    //     if(userstr[i]==" "){
+    //         console.log('ther is space ');
+    //         console.log( userName.substring(startIndex,i));
+    //         startIndex = i+1
+    //     }
+        
+    // }
+     
+// }getFolName()
+function getString (){
+    
+}
